@@ -1,0 +1,8 @@
+pyserial
+Pillow
+ezdxf
+matplotlib
+scikit-learn
+Adafruit-Blinka
+adafruit-circuitpython-adxl34x
+adafruit-circuitpython-ads1x15
