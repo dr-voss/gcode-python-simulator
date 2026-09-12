@@ -1,5 +1,5 @@
 # 🛠️ Python Meets the Shop Floor
-[![Open In Colab](https://google.com)](https://google.com)
+[Open CNC Code Companion in Google Colab](https://colab.research.google.com/github/dr-voss/gcode-python-simulator/blob/main/CNC_Code_Companion.ipynb)
 
 
 
