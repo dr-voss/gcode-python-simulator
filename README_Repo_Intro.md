@@ -1,4 +1,7 @@
 # 🛠️ Python Meets the Shop Floor
+[![Open In Colab](https://google.com)](https://google.com)
+
+
 
 A few lines of Python, and six evenly spaced holes appear around a circle, exactly where you told them to go. A chart that updates itself as sensor readings come in, quietly flagging the one reading that doesn't look like the others. A machine that keeps its own history, checks its own tolerances, and notices a tool wearing down before anyone standing at it would.
 
