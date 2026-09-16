@@ -47,6 +47,9 @@ This repo shows you *what* to run. It won't tell you *why* it works, what mistak
 
 If this repo made you curious, the book is where that curiosity turns into real, lasting understanding. Consider it the missing manual to everything you just cloned.
 
+## 📖How To Run the Code
+Run the initial cells - this would install all the required libraries and load the files required to run the code . Run and scroll down till the Title 'Chapter-1' occurs. Now follow the code along with the book.
+
 ## 🤝 Found a Bug? Made It Better?
 
 Issues and pull requests are genuinely welcome — if you spot something broken, or you've adapted a notebook for your own machine in a way others might find useful, open a PR. This project is meant to grow with the people using it.
